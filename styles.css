@@ -1,0 +1,33 @@
+* {
+    box-sizing: border-box;
+    font-family: "mulish", sans-serif;
+}
+body {
+    background-color: #f8e7af;
+    place-items: center;
+    display: grid;
+    margin: 14%;
+}
+
+.container {
+    height: 40vh;
+    width: 50vw;
+    background-color: #fab1a0;
+    text-align: center;
+}
+#temp {
+    padding: 1%;
+    width: 15%;
+    
+}
+
+#tempSelect {
+    padding: 1%;
+    width: 15%;
+    
+}
+
+#submit {
+    margin: 2%;
+}
+
